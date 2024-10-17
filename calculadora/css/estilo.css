@@ -5,7 +5,7 @@ body {
 width: 100%;
 display: flex;
 justify-content: center;
-background-color: #ccc;
+background-color: #D20204;
 }
 .app {
     background-color: #fff;
@@ -18,7 +18,7 @@ input {
     outline: none;
 }
 #btn-calcular {
-    background-color: green;
+    background-color: #000000;
     color: #fff;
     padding: 12px;
     border: none;
